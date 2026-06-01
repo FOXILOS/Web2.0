@@ -54,9 +54,9 @@ if (!empty($errors)) {
 try {
 
     $pdo = new PDO(
-        'mysql:host=localhost;dbname=u82380',
-        'u82380',
-        '43t3w4wE$'
+        'mysql:host=localhost;dbname=u82381',
+        'u82381',
+        '4dw$f%3dr'
     );
 
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
